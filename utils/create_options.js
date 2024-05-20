@@ -4,7 +4,7 @@ import reqToBack from "../listeners/copy_svg.js";
 import product from "../product.js";
 const textOptions = document.querySelector(".text__options");
 const productText = document.querySelector(".text__content");
-productText.querySelector("div").style.color = "rgb(255, 145, 0)";
+productText.querySelector("div").style.color = "rgb(184, 104, 255)";
 
 const deleteOldOptions = () => {
   const oldOptions = document.querySelectorAll(".options");
