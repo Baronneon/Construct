@@ -16,7 +16,7 @@ const colors = {
 };
 
 const product = {
-  strings: [{ text: "Baron Neon", mt: 20, scale: 1, color: "rgb(74, 203, 255)" }],
+  strings: [{ text: "Baron Neon", mt: 20, scale: 1, color: "rgb(184, 104, 255)" }],
   currentFont: fonts[0],
   aling: "center",
   counter: "square",
