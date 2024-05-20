@@ -107,7 +107,7 @@ html,
 body {
   font-family: "Comfortaa";
   font-weight: 400;
-  color: orange;
+  color: var(neonColor);
   height: 100%;
   width: 100%;
   background-color: black;
