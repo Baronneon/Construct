@@ -6,4 +6,6 @@ export default function (text, colorCode) {
   const glow = neonColor.glow;
   text.style.color = neonColor.color;
   text.style.textShadow = glow;
+  const bodyElement = document.body;
+  changeTextColor(bodyElement, neonColor.color);
 }
